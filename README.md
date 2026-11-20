@@ -1,1 +1,57 @@
-# aaroncav2.github.io
+# Three Games, Three Ways to Learn
+
+Free, offline-friendly mobile games by Aaron Cavanaugh, covering cybersecurity, military history, and project management.
+
+🛡️
+
+Cybersecurity · Card game
+
+## STRIDE Security Challenge
+
+Threat modeling as an offline trick-taking card game against two AI opponents.
+
+- Every card carries a STRIDE threat prompt: Spoofing, Tampering, Repudiation, Information disclosure, Denial of service, and Elevation of Privilege (always trump)
+- After each card, an automatic assessment says whether the threat is actionable, why, and what a sensible fix looks like
+- Three fictional environments: Customer Portal, Wireless Security, and BGP Routing Security
+- 74-card deck, architecture diagrams, scoring, a threat log, and a built-in rules guide
+
+Educational · Rated 3+ · Works fully offline · Contains ads
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.aaron.stridechallenge)
+
+🗺️
+
+Strategy · Historical simulation
+
+## War Room: Ten Strategy Games
+
+Command one side in ten wars, from 1775 to today, in solo turn-based strategy.
+
+- Pick a conflict from an interactive world map, then choose one of four sides, each with its own goals and options
+- Read a briefing, plan each turn, and pick economic, military, and intelligence actions with visible odds of success
+- Watch the meters move, reach an ending, review how it happened, and replay as another side
+- Covers the American Revolution, Civil War, WWI, Second Sino-Japanese War, WWII, Korea, Arab–Israeli wars, Vietnam, Iraq, and Russia–Ukraine
+
+Strategy · Rated 3+ · Works offline · Light and dark themes · Contains ads
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.aaroncav2.warroom)
+
+📋
+
+Exam prep · Board game
+
+## Project Pathways: Exam Prep
+
+Turn project management study time into a game instead of dry flashcards.
+
+- Race the computer around the board to 30 points, choosing your route each turn
+- Draw concept cards and trigger dice events along the way
+- Browse and flip 159 built-in study cards, and revisit the ones you missed
+- Import your own card sets from a CSV file
+- Built for certification candidates, working project managers, and students
+
+Educational · Rated 3+ · Short rounds for commutes and breaks · Contains ads
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.yourname.pmppathways)
+
+All three apps declare no data collected and no data shared with third parties. Project Pathways is an independent study aid and is not affiliated with PMI. STRIDE card prompts are adapted from Microsoft’s Elevation of Privilege game under CC BY 3.0 US.
