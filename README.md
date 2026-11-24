@@ -1,10 +1,12 @@
-# Three Games, Three Ways to Learn
+# Four Apps, Four Ways to Learn and Create
 
-Free, offline-friendly mobile games by Aaron Cavanaugh, covering cybersecurity, military history, and project management.
+Free mobile apps by Aaron Cavanaugh: three games covering cybersecurity, military history, and project management, plus a music studio.
+
+**🙋 Looking for testers for the three games** Tap a game below, install it from Google Play, and try it out. Your feedback helps a lot. Thank you!
 
 🛡️
 
-Cybersecurity · Card game
+Cybersecurity · Card gameTesters wanted
 
 ## STRIDE Security Challenge
 
@@ -21,7 +23,7 @@ Educational · Rated 3+ · Works fully offline · Contains ads
 
 🗺️
 
-Strategy · Historical simulation
+Strategy · Historical simulationTesters wanted
 
 ## War Room: Ten Strategy Games
 
@@ -38,7 +40,7 @@ Strategy · Rated 3+ · Works offline · Light and dark themes · Contains ads
 
 📋
 
-Exam prep · Board game
+Exam prep · Board gameTesters wanted
 
 ## Project Pathways: Exam Prep
 
@@ -54,4 +56,21 @@ Educational · Rated 3+ · Short rounds for commutes and breaks · Contains ads
 
 [View on Google Play](https://play.google.com/store/apps/details?id=com.yourname.pmppathways)
 
-All three apps declare no data collected and no data shared with third parties. Project Pathways is an independent study aid and is not affiliated with PMI. STRIDE card prompts are adapted from Microsoft’s Elevation of Privilege game under CC BY 3.0 US.
+🎹
+
+Music · DAW studioNew
+
+## GridWave
+
+A spreadsheet-style music studio you can use to build beats and arrangements on your phone.
+
+- Arrangement view, Piano Roll, and Drum Machine for composing
+- Splitter, Sliced, and Bounced tabs for chopping and rendering audio
+- MIDI Identifier and Effects tools
+- Built for mobile, with progress saved in the app
+
+Music studio · Android · Free, supported by ads
+
+[View on Google Play](https://play.google.com/store/apps/details?id=com.aaroncav2.gridwave)
+
+The three games declare no data collected and no data shared with third parties. Project Pathways is an independent study aid and is not affiliated with PMI. STRIDE card prompts are adapted from Microsoft’s Elevation of Privilege game under CC BY 3.0 US.
