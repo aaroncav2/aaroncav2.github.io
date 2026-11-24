@@ -58,7 +58,7 @@ Educational · Rated 3+ · Short rounds for commutes and breaks · Contains ads
 
 🎹
 
-Music · DAW studioNew
+Music · DAW studio
 
 ## GridWave
 
